@@ -23,7 +23,7 @@ I have a gentle wife and I am a fresh father of a nice baby😄. Actually life i
 
 Hometown: Chongqing, Jiangjin
 
-Residence: Zhengjiang, Hangzhou
+Residence: Zhejiang, Hangzhou
 
 Industry: Internet Finance
 
