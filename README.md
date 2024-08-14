@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![my_travel](https://i.thsi.cn/images/zcx/blog/life/my_travel.jpg)
 
-Hi, I'm Leo Zhou. 
+Hi, I'm Leo Zhou.
 
 I have a gentle wife and I am a fresh father of a nice baby😄. Actually life is good to me, but I'm a general man with a little bit crazy. I have taken a lot of detours in the last few years. Now I am in my 30's, I start to explore the meaning of my life.
 
@@ -27,7 +27,7 @@ Residence: Zhejiang, Hangzhou
 
 Industry: Internet Finance
 
-Company:  Hithink RoyalFlush Information Network Co.,Ltd. 
+Company: Hithink RoyalFlush Information Network Co.,Ltd.
 
 Position: Development Manager(Data Visualization)
 
@@ -42,7 +42,7 @@ Skills: Data visualization, JavaScript, PHP, Java, Linux, Database......
 
 # Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouchangju)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-18h7h2g2e-zhouchangjus-projects.vercel.app/api?username=zhouchangju)](https://github.com/anuraghazra/github-readme-stats)
 
 # Metrics
 
