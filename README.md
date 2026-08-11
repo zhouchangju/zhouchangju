@@ -30,6 +30,12 @@ I have been admitted to Georgia Tech's M.S. in Computer Science program for Spri
 
 Admitted for Spring 2027 · Enrollment pending
 
+**B.Eng. in Electronic Information Technology and Instruments, Hangzhou Dianzi University**
+
+Sep 2007 – Jun 2011
+
+Thesis: Static resource management system for web applications
+
 ## Selected Work
 
 ### Intelligent visual analytics
