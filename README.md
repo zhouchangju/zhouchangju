@@ -34,8 +34,6 @@ Admitted for Spring 2027 · Enrollment pending
 
 Sep 2007 – Jun 2011
 
-Thesis: Static resource management system for web applications
-
 ## Selected Work
 
 ### Intelligent visual analytics
