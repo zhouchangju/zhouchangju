@@ -2,7 +2,7 @@
 
 ![my_travel](https://i.thsi.cn/images/zcx/blog/life/my_travel.jpg)
 
-AI + Visualization Architect in Fintech
+AI Builder · Technical Lead, Data Visualization
 
 I design intelligent systems that turn complex financial data into products people can understand and trust.
 
@@ -10,17 +10,25 @@ Outside work, I am a husband, a father, and still curious about what technology 
 
 ## About
 
-I work at the intersection of AI applications, data visualization, and product engineering in fintech.
+I currently lead data visualization work in Hithink RoyalFlush's AI department, at the intersection of AI applications, visual analytics, and product engineering in fintech.
 
-Over the past 14 years, I have moved from building features to defining systems: retrieval pipelines, agent workflows, visual analytics, and the engineering foundations behind them.
+Over the past 15 years, I have moved from building features to defining systems: retrieval pipelines, agent workflows, visual analytics, and the engineering foundations behind them.
 
 I care about turning research ideas into practical products with clear user value, especially where explainability and interaction matter.
+
+I have been admitted to Georgia Tech's M.S. in Computer Science program for Spring 2027, where I plan to deepen my foundations in artificial intelligence.
 
 ## Current Focus
 
 - AI applications for financial analysis and insight generation
 - Visual and interactive systems that make complex logic easier to understand
 - Research-to-production work across RAG, agents, and explainable interfaces
+
+## Education
+
+**M.S. in Computer Science (Artificial Intelligence), Georgia Institute of Technology**
+
+Admitted for Spring 2027 · Enrollment pending
 
 ## Selected Work
 
